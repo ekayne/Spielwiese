@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Spielwiese2</string>
+    <string name="hw">Hallo_Welt.test</string>
+    <string name="newact">New Activity</string>
+    <string name="camera">Camera</string>
+
+</resources>
